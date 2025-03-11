@@ -1,7 +1,4 @@
 # Crop-Disease-Classifier
-
-   # Crop Disease Prediction System
-
    ## Project Description
    A sophisticated web application that leverages artificial intelligence to detect and diagnose crop diseases. The system provides instant analysis of crop images, offering detailed disease identification, confidence scores, and recommended treatment solutions. This tool aims to assist farmers and agricultural experts in making informed decisions about crop health management.
 
